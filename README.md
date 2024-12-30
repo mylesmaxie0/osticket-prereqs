@@ -293,4 +293,4 @@ Enabling CGI is necessary to install the PHP Manager. PHP is a back-end web prog
 </p>
 <br />
 <br />
-<h3 align="center"> Congrats, You've Finished Installing osTicket.</h3>
+<h3 align="center"> Next steps are here: https://github.com/mylesmaxie0/post-install </h3>
